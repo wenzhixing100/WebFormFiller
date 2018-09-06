@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FormElementListConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Columns>
+    <DgvColumn>
+      <Name>cFormLabel</Name>
+      <Width>117</Width>
+    </DgvColumn>
+    <DgvColumn>
+      <Name>cFormValue</Name>
+      <Width>127</Width>
+    </DgvColumn>
+    <DgvColumn>
+      <Name>cDelForm</Name>
+      <Width>40</Width>
+    </DgvColumn>
+    <DgvColumn>
+      <Name>cFormID</Name>
+      <Width>100</Width>
+    </DgvColumn>
+    <DgvColumn>
+      <Name>cFormName</Name>
+      <Width>100</Width>
+    </DgvColumn>
+    <DgvColumn>
+      <Name>cFormType</Name>
+      <Width>100</Width>
+    </DgvColumn>
+    <DgvColumn>
+      <Name>cFormTagName</Name>
+      <Width>100</Width>
+    </DgvColumn>
+    <DgvColumn>
+      <Name>cFormInFrame</Name>
+      <Width>100</Width>
+    </DgvColumn>
+  </Columns>
+</FormElementListConfig>

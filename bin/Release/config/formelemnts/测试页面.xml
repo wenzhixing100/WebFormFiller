@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FormElementsConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormElements>
+    <FormElement>
+      <Id>tUserName</Id>
+      <Name>tUserName</Name>
+      <Value>张三</Value>
+      <Type>text</Type>
+      <Tag>input</Tag>
+      <Label>用户名</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>tPwd</Id>
+      <Name>tPwd</Name>
+      <Value>888888</Value>
+      <Type>password</Type>
+      <Tag>input</Tag>
+      <Label>密码</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>tRePwd</Id>
+      <Name>tRePwd</Name>
+      <Value>888888</Value>
+      <Type>password</Type>
+      <Tag>input</Tag>
+      <Label>确认密码</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>tName</Id>
+      <Name>tName</Name>
+      <Value>张三</Value>
+      <Type>text</Type>
+      <Tag>input</Tag>
+      <Label>姓名</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>rbSex1</Id>
+      <Name>rbSex</Name>
+      <Value>1</Value>
+      <Type>radio</Type>
+      <Tag>input</Tag>
+      <Label>性别-男</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>rbSex0</Id>
+      <Name>rbSex</Name>
+      <Value>0</Value>
+      <Type>radio</Type>
+      <Tag>input</Tag>
+      <Label>性别-女</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>tBirthday</Id>
+      <Name>tBrithday</Name>
+      <Value>2000-01-01</Value>
+      <Type>text</Type>
+      <Tag>input</Tag>
+      <Label>出生日期</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>cbProfession</Id>
+      <Name>cbProfession</Name>
+      <Value>固定工作者</Value>
+      <Type>select-one</Type>
+      <Tag>select</Tag>
+      <Label>职业</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id />
+      <Name>selEducational</Name>
+      <Value>大学</Value>
+      <Type>select-one</Type>
+      <Tag>select</Tag>
+      <Label>学历</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>ckLike1</Id>
+      <Name>ckLike</Name>
+      <Value>1</Value>
+      <Type>checkbox</Type>
+      <Tag>input</Tag>
+      <Label>爱好-运动</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>ckLike2</Id>
+      <Name>ckLike</Name>
+      <Value>1</Value>
+      <Type>checkbox</Type>
+      <Tag>input</Tag>
+      <Label>爱好-音乐</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>ckLike3</Id>
+      <Name>ckLike</Name>
+      <Value>0</Value>
+      <Type>checkbox</Type>
+      <Tag>input</Tag>
+      <Label>爱好-看电影</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id>ckLike4</Id>
+      <Name>ckLike</Name>
+      <Value>0</Value>
+      <Type>checkbox</Type>
+      <Tag>input</Tag>
+      <Label>爱好-看小说</Label>
+      <Frames />
+    </FormElement>
+    <FormElement>
+      <Id />
+      <Name>selPayAttention</Name>
+      <Value>财经+科技</Value>
+      <Type>select-multiple</Type>
+      <Tag>select</Tag>
+      <Label>关注</Label>
+      <Frames />
+    </FormElement>
+  </FormElements>
+</FormElementsConfig>

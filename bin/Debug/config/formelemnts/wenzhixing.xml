@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FormElementsConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormElements>
+    <FormElement>
+      <Id>kw</Id>
+      <Name>wd</Name>
+      <Value>wenzhixing</Value>
+      <Type>text</Type>
+      <Tag>input</Tag>
+      <Label>baidu</Label>
+      <Frames />
+    </FormElement>
+  </FormElements>
+</FormElementsConfig>

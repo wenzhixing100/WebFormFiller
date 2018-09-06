@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HomePage>https://31.1.0.28:4008/ZXT/security/loc.to?page=LOGON</HomePage>
+  <AutoUpdate>false</AutoUpdate>
+</SystemConfig>

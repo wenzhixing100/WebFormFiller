@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>测试页面</title>
+<style type="text/css">
+<!--
+body,table{
+    font-size:12px;
+}
+table{
+    empty-cells:show;
+	border: 1px solid blue;
+}
+td{
+    height:20px;
+	border: 1px solid blue;
+}
+h1{
+    font-size:18px;
+    margin:0;
+    padding:0;
+}
+body,td,th {
+	font-family: 宋体,Arial, Helvetica, sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 宋体;
+}
+body {
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+-->
+</style>
+</head>
+<body>
+<p><h1>测试页面</h1></p>
+<table style="width:600px">
+  <tr>
+    <td colspan="2" align="left" valign="top"><h1>注册信息</h1></td>
+  </tr>
+  <tr>
+    <td style="width:120px" align="right" valign="top"><strong>用户名：</strong></td>
+    <td style="width:480px" align="left" valign="top"><input name="tUserName" type="text" id="tUserName" size="20" maxlength="20" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>密码：</strong></td>
+    <td align="left" valign="top"><input name="tPwd" type="password" id="tPwd" size="20" maxlength="20" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>确认密码：</strong></td>
+    <td align="left" valign="top"><input name="tRePwd" type="password" id="tRePwd" size="20" maxlength="20" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" valign="top"><h1>用户信息</h1></td>
+  </tr>
+  <tr>
+    <td style="width:120px" align="right" valign="top"><strong>姓名：</strong></td>
+    <td style="width:480px" align="left" valign="top"><input name="tName" type="text" id="tName" size="20" maxlength="20" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>性别：</strong></td>
+    <td align="left" valign="top"><input type="radio" name="rbSex" id="rbSex1" value="1" /> 
+      男
+&nbsp;&nbsp;&nbsp;
+<input type="radio" name="rbSex" id="rbSex0" value="0" /> 
+女</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>出生日期：</strong></td>
+    <td align="left" valign="top"><input name="tBrithday" type="text" id="tBirthday" size="12" maxlength="12" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>职业：</strong></td>
+    <td align="left" valign="top"><select name="cbProfession" id="cbProfession">
+      <option value="-100" selected="selected">请选择</option>
+      <option value="1">学生</option>
+      <option value="2">固定工作者</option>
+      <option value="3">自由职业者</option>
+      <option value="4">待业/无业/失业</option>
+      <option value="5">退休</option>
+      <option value="6">其他</option>
+        </select></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>学历：</strong></td>
+    <td align="left" valign="top"><select name="selEducational" size="4">
+      <option value="1">小学及以下</option>
+      <option value="2">初中</option>
+      <option value="3">高中</option>
+      <option value="4">大学</option>
+      <option value="5">研究生</option>
+      <option value="6">博士及以上</option>
+    </select>
+      <strong>(单选)</strong></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>爱好：</strong></td>
+    <td align="left" valign="top"><input type="checkbox" name="ckLike" id="ckLike1" value="1" />
+      运动&nbsp;&nbsp; <input type="checkbox" name="ckLike" id="ckLike2" value="2" />
+音乐 
+&nbsp;&nbsp; <input type="checkbox" name="ckLike" id="ckLike3" value="3" /> 
+看电影
+&nbsp;&nbsp; <input type="checkbox" name="ckLike" id="ckLike4" value="4" /> 
+看小说</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>关注：</strong></td>
+    <td align="left" valign="top"><select name="selPayAttention" size="4" multiple="multiple">
+      <option value="1">财经</option>
+      <option value="2">科技</option>
+      <option value="3">娱乐</option>
+      <option value="4">本地新闻</option>
+    </select>
+    <strong>(可多选)</strong></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecordListConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Records>
+    <Record>
+      <Text>张三#888888#888888#张三#1#0#2000-01-01#固定工作者#大学#1#1#0#0#财经+科技</Text>
+      <Name>测试页面</Name>
+      <SplitKey>#</SplitKey>
+      <ClearBlankSpace>true</ClearBlankSpace>
+      <ReplaceTab>true</ReplaceTab>
+      <ReplaceRN>true</ReplaceRN>
+      <NoDataNotFill>true</NoDataNotFill>
+      <Url>http://www.glajijie.com/wfer/test.html</Url>
+    </Record>
+  </Records>
+  <Columns />
+</RecordListConfig>

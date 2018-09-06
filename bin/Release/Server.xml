@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updateFiles>
+  <file path="help.chm" url="http://www.glajijie.com/wfer/update/help.chm" size="819742" lastver="1.0.0.0" md5="AD25108807E94BF9B7144F16ADCAF834" />
+  <file path="WebFormFiller.Core.dll" url="http://www.glajijie.com/wfer/update/WebFormFiller.Core.dll" size="83456" lastver="1.0.0.0" md5="26DE10B08E1CD9BDF247ED98F3E585E7" />
+  <file path="WebFormFiller.tmp" url="http://www.glajijie.com/wfer/update/WebFormFiller.tmp" size="217600" lastver="1.0.0.0" md5="94B3018095CF1B9860B6E441ADECED2A" />
+  <file path="WebFormFiller.Update.dll" url="http://www.glajijie.com/wfer/update/WebFormFiller.Update.dll" size="84992" lastver="1.0.0.0" md5="A5F1F6DEA22620AF366802FC4D100C7F" />
+</updateFiles>
